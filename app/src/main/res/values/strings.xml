@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Oni Stadium Finder</string>
+
+    <string name="close_btn_text">Close</string>
+    <string name="short_desc">Short Description</string>
+    <string name="address">Address: </string>
+    <string name="capacity">Capacity: </string>
+    <string name="year">Year: </string>
+    <string name="error_text">Error! Please Try Again Later!</string>
+
+</resources>
