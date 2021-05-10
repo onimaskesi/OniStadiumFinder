@@ -119,7 +119,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                 int index = Integer.parseInt(marker.getTitle());
                 Stadium stadium = stadiumList.get(index);
 
-                marker.setTitle(stadium.getName());
+                marker.setSnippet(stadium.getName());
 
                 CharSequence name = stadium.getName();
                 CharSequence capacity = stadium.getCapacity();
